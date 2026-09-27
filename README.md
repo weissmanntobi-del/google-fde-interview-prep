@@ -1,3 +1,4 @@
+
 # Google Forward Deployed Engineer Interview Preparation
 
 A practical preparation repository for engineers targeting **Forward Deployed Engineer (FDE)**, **Generative AI Engineer**, and customer-facing AI engineering interviews.
@@ -179,3 +180,4 @@ For the complete preparation system:
 
 **FDE Interview Bundle:**  
 https://tobiweissmann.gumroad.com/l/gjfkao
+
