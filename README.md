@@ -5,8 +5,8 @@ A practical preparation repository for engineers targeting **Forward Deployed En
 
 > **Preparing for Forward Deployed Engineer interviews?**  
 > Explore coding, GenAI engineering, RAG, agents, system design, production AI, customer discovery, and mock-interview frameworks.
->
-> ** FDE Interview Bundle: **
+
+## ** FDE Interview Bundle? **
 https://tobiweissmann.gumroad.com/l/gjfkao
 
 ## What This Repository Covers
