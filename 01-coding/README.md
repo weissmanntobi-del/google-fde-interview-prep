@@ -14,3 +14,8 @@ Focus on practical coding tasks that resemble production work rather than only t
 - Distributed processing
 
 Use this module to practice turning ambiguous requirements into clean, reliable code.
+
+## Google FDE Interview Bundle
+https://tobiweissmann.gumroad.com/l/gjfkao
+
+DISCOUNT CODE: GOOGLE_FDE_50
