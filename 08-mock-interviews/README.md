@@ -9,3 +9,8 @@ Recommended mock formats:
 - Behavioral / stakeholder communication
 
 Use realistic time limits and score yourself on clarity, correctness, trade-offs, and communication.
+
+## Google FDE Interview Bundle
+https://tobiweissmann.gumroad.com/l/gjfkao
+
+DISCOUNT CODE: GOOGLE_FDE_50
